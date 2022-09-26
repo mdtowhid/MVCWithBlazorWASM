@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v2gfIfoLbZfsxrKP12cDY7Zq8XMYgyVg89fVJJ1molM=",
+  "Source": "Blazor.Library",
+  "BasePath": "_content/Blazor.Library",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

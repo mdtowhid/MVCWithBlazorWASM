@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Hostings\MVCWithBlazorWASM</_PublishTargetUrl>
+    <History>True|2022-09-15T16:47:27.2522685Z;False|2022-09-15T22:47:08.4667493+06:00;True|2022-09-15T20:45:10.3725633+06:00;True|2022-09-15T15:03:26.9874293+06:00;True|2022-09-15T14:34:34.5869932+06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

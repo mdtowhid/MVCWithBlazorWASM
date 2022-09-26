@@ -1,0 +1,17 @@
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\MVCWithBlazorWASM.exe
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\MVCWithBlazorWASM.dll
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\MVCWithBlazorWASM.deps.json
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\MVCWithBlazorWASM.runtimeconfig.json
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\MVCWithBlazorWASM.pdb
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Components.dll
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\Microsoft.JSInterop.dll
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\System.IO.Pipelines.dll
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\Blazor.Library.dll
+C:\Users\hp\Documents\Reports\MVCWithBlazorWASM\MVCWithBlazorWASM\obj\Release\net6.0\PubTmp\Out\Blazor.Library.pdb

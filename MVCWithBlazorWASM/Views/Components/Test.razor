@@ -1,0 +1,15 @@
+﻿@page "/test"
+
+<h3>@Name</h3>
+
+<button @onclick="Click">Click</button>
+
+@code {
+    [Parameter]
+    public string Name { get; set; }
+
+    void Click()
+    {
+        Name += " Jonathon";
+    }
+}

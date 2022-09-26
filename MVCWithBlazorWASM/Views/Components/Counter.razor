@@ -1,0 +1,63 @@
+﻿<h3>Counter</h3>
+
+<button @onclick="Click"> @_st</button>
+<button @onclick="RenderTestComponent">Render Test Component</button>
+@if(Students !=null)
+{
+    <table class="table table-bordered table-hover table-primary mt-2 border">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+        </tr>
+        @foreach (var student in Students)
+        {
+            <tr @onclick="(()=>GetStudent(student.Id))">
+                <td>@student.Id</td>
+                <td >@student.Name</td>
+            </tr>
+        }
+    </table>
+}
+
+@if(_showTestComponent)
+{
+    <Test Name="@searched"></Test>
+}
+
+<p>@searched</p>
+
+@code {
+    string _st = "Get Student";
+    string searched;
+    bool _showTestComponent = false;
+    public List<Student> Students { get; set; }
+    void Click()
+    {
+        Students = new List<Student>
+        {
+            new Student{Id=1, Name="Hope"},
+            new Student{Id=2, Name="Bob"},
+            new Student{Id=3, Name="Zabeth"},
+            new Student{Id=4, Name="Kethrin"},
+            new Student{Id=5, Name="Java"},
+            new Student{Id=6, Name="Kameronal"},
+            new Student{Id=7, Name="Wasm"},
+        };
+    }
+
+    public void GetStudent(int id)
+    {
+        searched = Students.FirstOrDefault(x => x.Id == id)!.Name;
+    }
+
+    public void RenderTestComponent()
+    {
+        _showTestComponent = true;
+    }
+
+    public class Student
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+    }
+}
